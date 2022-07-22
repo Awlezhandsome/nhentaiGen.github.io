@@ -1,0 +1,17 @@
+#text{
+    display: block;
+    font-size: 25px;
+    text-align: center;
+}
+#displayCode{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
+#generatorBtn{
+    display: block;
+    margin: auto;
+    height: 75px;
+    width: 150px;
+    font-size: 20px;
+}
